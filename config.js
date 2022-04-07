@@ -27,7 +27,7 @@ const CONFIG = {
 
 	// Weather
 	weatherKey: 'e98b888aa76e64dab28d3a1e557a3d35', // Write here your API Key
-	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
+	weatherIcons: 'Dark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'F', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
@@ -53,39 +53,39 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Reddit',
+			icon: 'rss',
+			link: 'https://www.reddit.com/',
 		},
 		{
 			id: '2',
-			name: 'Mail',
+			name: 'G-Mail',
 			icon: 'mail',
 			link: 'https://mail.google.com/mail/u/1/#inbox',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Proton Mail',
+			icon: 'inbox',
+			link: 'https://mail.protonmail.com/u/0/inbox',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Amazon',
+			icon: 'shopping-cart',
+			link: 'https://smile.amazon.com/',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'AniList',
+			icon: 'layout-list',
+			link: 'https://anilist.co/home',
 		},
 		{
 			id: '6',
-			name: 'YouTube',
-			icon: 'youtube',
-			link: 'https://www.youtube.com/',
+			name: 'Proxmox',
+			icon: 'server',
+			link: 'https://10.3.1.4:8006/',
 		},
 	],
 
