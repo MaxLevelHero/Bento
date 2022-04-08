@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Proton Mail',
-			icon: 'inbox',
-			link: 'https://mail.protonmail.com/u/0/inbox',
+			name: 'AniList',
+			icon: 'layout-list',
+			link: 'https://anilist.co/home',
 		},
 		{
 			id: '4',
@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'AniList',
-			icon: 'layout-list',
-			link: 'https://anilist.co/home',
+			name: 'Proton Mail',
+			icon: 'inbox',
+			link: 'https://mail.protonmail.com/u/0/inbox',
 		},
 		{
 			id: '6',
