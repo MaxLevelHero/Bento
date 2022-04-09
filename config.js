@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Proxmox',
-			icon: 'server',
-			link: 'https://10.3.1.4:8006/',
+			name: 'Github',
+			icon: 'github',
+			link: 'https://github.com/MaxLevelHero',
 		},
 	],
 
@@ -135,46 +135,46 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'film',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'YouTube',
+					link: 'https://www.youtube.com/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Twitch',
+					link: 'https://www.twitch.tv/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Crunchy Roll',
+					link: 'https://beta.crunchyroll.com/watchlist',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Just Watch',
+					link: 'https://www.justwatch.com/us',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'film',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Netflix',
+					link: 'https://www.netflix.com/browse',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Disney+',
+					link: 'https://www.disneyplus.com/home',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Hulu',
+					link: 'http://www.hulu.com/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Prime Video',
+					link: 'https://www.amazon.com/Amazon-Video/b?ie=UTF8&node=2858778011',
 				},
 			],
 		},
